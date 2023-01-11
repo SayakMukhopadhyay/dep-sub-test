@@ -1,0 +1,4 @@
+rootProject.name = 'dep-sub-test'
+
+include 'consumer'
+include 'library'
